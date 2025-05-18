@@ -1,11 +1,11 @@
 beautifulsoup4
 Flask
-googlesearch_python
+googlesearch-python
 numpy
 pandas
-python_dateutil
+python-dateutil
 requests
-scikit_learn
+scikit-learn
 whois
 gunicorn
 seaborn
