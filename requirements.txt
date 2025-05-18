@@ -1,4 +1,4 @@
-beautifulsoup
+beautifulsoup4
 Flask
 googlesearch_python
 numpy
@@ -8,3 +8,6 @@ requests
 scikit_learn
 whois
 gunicorn
+seaborn
+xgboost
+catboost
